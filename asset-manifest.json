@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.7ffbf90a.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.7ffbf90a.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.c710f8c0.chunk.js": "/nft-dashboard-template/static/js/2.c710f8c0.chunk.js",
-    "static/js/2.c710f8c0.chunk.js.map": "/nft-dashboard-template/static/js/2.c710f8c0.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.c710f8c0.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.c710f8c0.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft-dashboard-template/static/media/Covalent-Background_5.cc7bc02b.jpg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/nftdashboard/static/css/main.505b915e.chunk.css",
+    "main.js": "/nftdashboard/static/js/main.13b8044d.chunk.js",
+    "main.js.map": "/nftdashboard/static/js/main.13b8044d.chunk.js.map",
+    "runtime-main.js": "/nftdashboard/static/js/runtime-main.94632263.js",
+    "runtime-main.js.map": "/nftdashboard/static/js/runtime-main.94632263.js.map",
+    "static/js/2.fc5f877b.chunk.js": "/nftdashboard/static/js/2.fc5f877b.chunk.js",
+    "static/js/2.fc5f877b.chunk.js.map": "/nftdashboard/static/js/2.fc5f877b.chunk.js.map",
+    "index.html": "/nftdashboard/index.html",
+    "static/css/main.505b915e.chunk.css.map": "/nftdashboard/static/css/main.505b915e.chunk.css.map",
+    "static/js/2.fc5f877b.chunk.js.LICENSE.txt": "/nftdashboard/static/js/2.fc5f877b.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/nftdashboard/static/media/Back.8af6b2fe.svg",
+    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nftdashboard/static/media/Covalent-Background_5.cc7bc02b.jpg",
+    "static/media/App.css": "/nftdashboard/static/media/alert.6e5425f9.svg",
+    "static/media/banner.e7e48588.png": "/nftdashboard/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nftdashboard/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/nftdashboard/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.c710f8c0.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.7ffbf90a.chunk.js"
+    "static/js/runtime-main.94632263.js",
+    "static/js/2.fc5f877b.chunk.js",
+    "static/css/main.505b915e.chunk.css",
+    "static/js/main.13b8044d.chunk.js"
   ]
 }
